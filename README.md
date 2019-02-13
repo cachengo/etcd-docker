@@ -1,2 +1,2 @@
 # etcd-docker
-Building Docker images for etcd
+Cross-platform builds of Docker images for etcd
